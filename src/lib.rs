@@ -43,7 +43,7 @@ impl zed::Extension for ThriftNext {
         let env = _worktree.shell_env();
 
         let mut binary_path = String::new();
-        let mut args = vec!["--stdio".to_string()];
+        let mut args = Vec::new();
 
         // Get user LSP configuration
         // If the user has explicitly configured binary and arguments, the extension will no longer check for updates or perform other configurations
