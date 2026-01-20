@@ -9,10 +9,6 @@
 > `zed-thrift-next` is an independent extension project and has no dependency relationship with `zed-thrift`
 
 > [!caution]
-> When using in `zed`, you may encounter an `Error: resolving completion` error. This is not an issue with the extension itself, and functionality remains unaffected. I am actively communicating with the `thriftls` author to understand this issue.
-
-
-> [!caution]
 > You cannot use both `zed-thrift` and `zed-thrift-next` simultaneously. Please uninstall the `zed-thrift` extension before installing `zed-thrift-next`
 
 

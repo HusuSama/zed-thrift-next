@@ -8,9 +8,6 @@
 > `zed-thrift-next` 与 `zed-thrift` 没有任何依赖关系，是一个独立的 `zed` 扩展
 
 > [!caution]
-> 在 `zed` 中使用时，可能会出现 `Error: resolving completion` 的错误，这并非扩展的问题，功能也没有任何影响，本人也在积极的去与 `thriftls` 作者沟通，了解此类问题
-
-> [!caution]
 > 你不能同时使用 `zed-thrift` 和 `zed-thrift-next` ，安装 `zed-thrift-next` 前请先卸载 `zed-thrift` 扩展
 
 ## 功能
